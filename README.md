@@ -1,0 +1,1 @@
+A school project where I learn to use SQlite in Pythons
